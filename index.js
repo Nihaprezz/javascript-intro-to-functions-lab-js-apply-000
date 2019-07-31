@@ -2,5 +2,5 @@ function shout(string){
   return string.toUpperCase();
 }
 
-console.log(shout(string))
+console.log(shout(string));
 
