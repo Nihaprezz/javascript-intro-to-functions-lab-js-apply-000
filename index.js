@@ -3,3 +3,5 @@ function shout(string){
 }
 
 shout('hello');
+
+shout('hello');
